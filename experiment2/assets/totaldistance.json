@@ -1,0 +1,35 @@
+{
+    "vertices":[0.596667,-1,-0.556885,0.596667,-1,0.550622,-0.599907,-1,0.550622,-0.599906,-1,-0.556885,1,0.473603,-0.999999,0.999999,0.473603,1,-1,0.473603,1,-1,0.473603,-1],
+    "uvs":[],
+    "colors":[],
+    "metadata":{
+        "vertices":8,
+        "uvs":0,
+        "colors":0,
+        "normals":6,
+        "generator":"io_three",
+        "faces":6,
+        "version":3,
+        "type":"Geometry",
+        "materials":1
+    },
+    "normals":[0,-1,0,0,1,-0,0.964524,-0.263996,0,-0,-0.29169,0.956513,-0.965062,-0.262021,-0,0,-0.287964,-0.957641],
+    "materials":[{
+        "depthWrite":true,
+        "depthTest":true,
+        "vertexColors":false,
+        "specularCoef":50,
+        "shading":"phong",
+        "colorEmissive":[0,0,0],
+        "colorSpecular":[0.5,0.5,0.5],
+        "DbgIndex":0,
+        "transparent":false,
+        "opacity":1,
+        "blending":"NormalBlending",
+        "DbgName":"Material",
+        "wireframe":false,
+        "DbgColor":15658734,
+        "visible":true
+    }],
+    "faces":[35,0,1,2,3,0,0,0,0,0,35,4,7,6,5,0,1,1,1,1,35,0,4,5,1,0,2,2,2,2,35,1,5,6,2,0,3,3,3,3,35,2,6,7,3,0,4,4,4,4,35,4,0,3,7,0,5,5,5,5]
+}
